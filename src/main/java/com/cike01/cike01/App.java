@@ -13,7 +13,7 @@ public class App
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}System.out.println("OK");
+		}System.out.println("OK");System.out.println("yes");
         
     }
 }
